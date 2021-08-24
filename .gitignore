@@ -4,3 +4,4 @@ packer.log
 .DS_Store
 /builds/
 /packer-*/
+.env.sh
